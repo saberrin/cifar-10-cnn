@@ -1,6 +1,6 @@
 # Convolutional Neural Networks for CIFAR-10 
 
-
+# ljy
 This repository is about some implementations of CNN Architecture  for **cifar10**.  
 
 ![cifar10][1]
